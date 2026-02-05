@@ -11,7 +11,7 @@ classic 90s 3D engines.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/My-Raycaster-Launch.git
+git clone https://github.com/MmdMehti/My-Raycaster-Launch.git
 cd My-Raycaster-Launch/src
 make
 ./raycaster
