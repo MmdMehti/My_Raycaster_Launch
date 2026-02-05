@@ -106,3 +106,12 @@ body {
     transform: scale(1.05);
     opacity: 0.8;
 }
+
+.footer {
+    background-color: #020617;
+    text-align: center;
+    padding: 24px;
+    margin-top: 60px;
+    font-size: 14px;
+    color: var(--text-color);
+}
